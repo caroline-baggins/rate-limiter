@@ -1,7 +1,6 @@
 ## Airtask Test
 A Redis-backed Rate Limiter
 
-
 ### Start server
 - install redis
 - start redis
